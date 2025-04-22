@@ -3,7 +3,7 @@ litros_consumidos = float(input("Ingrese la cantidad de litros consumidos: "))
 
 rendimiento = distancia_recorrida / litros_consumidos
 
-precio_por_litro = 1.5 
+precio_por_litro = 49 
 gasto_total = litros_consumidos * precio_por_litro
 
 print("\nDistancia recorrida:", distancia_recorrida, "km")
